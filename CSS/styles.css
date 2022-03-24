@@ -1,0 +1,283 @@
+
+.introduction{
+    background-color: rgb(77, 77, 107);
+    padding: 10px;
+}
+
+.contact{   
+    background-color: rgb(55, 55, 82);
+}
+
+.contact ul{
+    display: flex;
+    list-style: none;
+    margin: 0;
+}
+
+.contact ul li{
+    padding: 15px;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.contact ul li a{
+    color: white;
+}
+
+h4{
+    margin-top: 0px;
+    color: rgb(112, 207, 199);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.name{
+    margin-bottom: 0;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.tagline{
+    margin-bottom: 0;
+    color: white;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+body{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.ed{
+    color: rgb(98, 185, 178);
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Book', 'Arial Narrow', Arial, sans-serif;
+}
+
+.degree{
+    margin: 0;
+    font-family: 'Franklin Gothic Book', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.school{
+    margin: 0;
+    font-family: 'Franklin Gothic Book', 'Arial Narrow', Arial, sans-serif;
+}
+
+.date{
+    color: rgb(139, 224, 217);
+    margin-top: 0;
+    font-family: 'Franklin Gothic Book', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-size: 13px;
+}
+
+.projects{
+    color: rgb(98, 185, 178);
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Book', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.proj{
+    padding-left: 15px;
+}
+
+.proj li{
+    font-family: 'Franklin Gothic Book', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom:5px ;
+}
+
+.experience{
+    color: rgb(98, 185, 178);
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Book', 'Arial Narrow', Arial, sans-serif;
+}
+
+.organization{
+    margin: 0;
+    font-family: 'Franklin Gothic Book', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.post{
+    margin: 0;
+    font-family: 'Franklin Gothic Book', 'Arial Narrow', Arial, sans-serif;
+}
+
+.left-side{
+    width: 50%;
+}
+
+.right-side{
+    width: 50%;
+}
+
+.total{
+    display: flex;
+}
+
+.skills1{
+    display: flex;
+
+}
+
+.skills1 p{
+    padding: 15px;
+    background-color: rgb(23, 23, 59);
+    color: white;
+    border-radius: 10%;
+    padding: 5px;
+    margin: 5px;
+}
+
+.skills2{
+    display: flex;
+}
+
+.skills2 p{
+    padding: 15px;
+    background-color: rgb(23, 23, 59);
+    color: white;
+    border-radius: 10%;
+    padding: 5px;
+    margin: 5px;
+}
+
+.skills3{
+    display: flex;
+}
+
+.skills3 p{
+    padding: 15px;
+    background-color: rgb(23, 23, 59);
+    color: white;
+    border-radius: 10%;
+    padding: 5px;
+    margin: 5px;
+}
+
+.skills h1{
+    color: rgb(98, 185, 178);
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Book', 'Arial Narrow', Arial, sans-serif; 
+}
+
+.volunteer h1{
+    color: rgb(98, 185, 178);
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Book', 'Arial Narrow', Arial, sans-serif;
+}
+.society{
+    margin: 0;
+    font-family: 'Franklin Gothic Book', 'Arial Narrow', Arial, sans-serif;
+}
+
+.volunteer .post{
+    margin: 0;
+    font-family: 'Franklin Gothic Book', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.certification h1{
+    color: rgb(98, 185, 178);
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Book', 'Arial Narrow', Arial, sans-serif;
+}
+
+.course{
+    margin: 0;
+    font-family: 'Franklin Gothic Book', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.source{
+    margin: 0;
+    font-family: 'Franklin Gothic Book', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+
+.language h1{
+    color: rgb(98, 185, 178);
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Book', 'Arial Narrow', Arial, sans-serif;
+}
+
+.lang{
+    margin: 0;
+    font-family: 'Franklin Gothic Book', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold; 
+}
+
+.level{
+    margin-top: 0;
+    font-family: 'Franklin Gothic Book', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+
+#wrapper
+{
+ text-align:center;
+}
+
+.language_name 
+{
+ width:50px;
+ height:40px;
+ line-height:40px;
+ font-weight:bold;
+ font-size:13px;
+ color:white;
+ clear:both;
+ float:left;
+ border-radius:3px 0px 0px 3px;
+}
+#language_english
+{
+ background-color:#088A85;
+}
+
+#language_urdu
+{
+ background-color:#088A85;
+}
+
+.languagebar_wrapper 
+{
+ float:left;
+ position:relative;
+ display:block;
+ margin-bottom:15px;
+ width:400px;
+ background-color:#E6E6E6;
+ height:40px;
+ border-radius:0px 3px 3px 0px;
+}
+.languagebar_bar 
+{
+ height:40px;
+ width:0px;
+ border-radius:0px 3px 3px 0px;
+}
+#languagebar_english
+{
+ background-color:#01DFD7;
+}
+
+#languagebar_urdu
+{
+ background-color:#01DFD7;
+}
+
+.language_bar_percent 
+{
+ position:absolute;
+ right:10px;
+ top:0;
+ font-size:12px;
+ height:35px;
+ line-height:35px;
+ color:black;
+}
+
